@@ -5,7 +5,7 @@ DevInvoice is a modern billing and invoicing application designed for freelancer
 
 The application is built using Streamlit and integrates an AI chatbot powered by n8n to assist users with invoicing tasks, project estimation, and business queries.
 
-Features
+# Features
 
 • Generate professional PDF invoices
 • Manage client database
@@ -17,7 +17,7 @@ Features
 • Milestone-based project billing
 • AI chatbot assistant integrated across all screens
 
-Tech Stack
+#Tech Stack
 
 • Streamlit
 • Python
@@ -25,7 +25,7 @@ Tech Stack
 • Pandas
 • n8n AI chatbot integration
 
-Use Cases
+#Use Cases
 
 DevInvoice is ideal for:
 • Small agencies
