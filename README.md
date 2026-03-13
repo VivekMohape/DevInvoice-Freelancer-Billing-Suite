@@ -17,7 +17,7 @@ The application is built using Streamlit and integrates an AI chatbot powered by
 • Milestone-based project billing
 • AI chatbot assistant integrated across all screens
 
-#Tech Stack
+# Tech Stack
 
 • Streamlit
 • Python
@@ -25,7 +25,7 @@ The application is built using Streamlit and integrates an AI chatbot powered by
 • Pandas
 • n8n AI chatbot integration
 
-#Use Cases
+# Use Cases
 
 DevInvoice is ideal for:
 • Small agencies
